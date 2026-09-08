@@ -6,7 +6,7 @@ V Rising unlocker with blood magic, castle building, skin unlocker, resource edi
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **VRisingMods**, **Bloodcraft**, and **VRisingServerM
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch V Rising.
 4. Run the unlocker **as Administrator**.
